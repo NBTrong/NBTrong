@@ -29,8 +29,3 @@ I am Nguyen Ba Trong, people call me Trong, a recent computer science graduate f
 ![MySQL](https://img.shields.io/badge/-MySQL-663333?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-0000BB?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-996600?style=flat-square&logo=git)
-
-| <a href="https://github.com/NBTrong/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NBTrong&show_icons=true&include_all_commits=false&theme=highcontrast&hide_border=true&count_private=true" alt="NBTrong's github stats" /></a> | <a href="https://github.com/NBTrong/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NBTrong&layout=compact&theme=highcontrast&hide_border=true" /></a> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NBTrong)
