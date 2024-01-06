@@ -1,8 +1,7 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/NBTrong/NBTrong/master/wave.gif" width="30">
 
-I am Nguyen Ba Trong, people call me Trong, a recent computer science graduate from [Hanoi University of Science and Technology](https://www.hust.edu.vn/). I am a tech enthusiast. Always open to collaborating on projects and innovative/disruptive ideas. 
+I am Nguyen Ba Trong, people call me Trong, a recent computer science graduate from [Hanoi University of Science and Technology](https://www.hust.edu.vn/). I am a tech enthusiast. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
-Feel free to connect with me here:
 [![Github Badge](https://img.shields.io/badge/-Github-AAAAAA?style=flat-square&logo=github&logoColor=white&link=https://github.com/NBTrong)](https://github.com/NBTrong)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0066FF?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/trongdepchoai/)](https://www.facebook.com/trongdepchoai/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:trongnb.work@gmail.com)](mailto:trongnb.work@gmail.com)
